@@ -1,0 +1,148 @@
+{% load widget_tweaks %}
+{% load staticfiles %}
+{% load bootstrap4 %}
+<!DOCTYPE html>
+<html lang="en">
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    /* The image used */
+    background-image: url("{% static "img/bg.jpg" %}");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+nav img {
+  float: left;
+  width: 150px;
+  height: 30px;
+
+}
+
+btn {
+    background-color: #8A2BE2;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #8A2BE2;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color:#4CAF50;
+}
+
+
+wrapper {
+  .make-row();
+}
+content-main {
+  .make-lg-column(8);
+}
+content-secondary {
+  .make-lg-column(3);
+  .make-lg-column-offset(1);
+}
+</style>
+<head>
+  <title>TeleSign Demos</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm bg-light navbar-dark">
+  <!-- Brand/logo -->
+  <a class="navbar-brand" href="#">
+    <img src="{% static "img/telesign_logo.png" %}" >
+  </a>
+
+</nav>
+<div class="bg">
+    <div class="container-fluid">
+                <div class="row">
+            <div class="col-sm-12">
+                <h2>    </h2>
+                <h2>    </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h2>PhoneID Suite</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h6>Delivers detailed and actionable global</h6>
+            </div>
+        </div>
+    <div class="row">
+          <div class="col-sm-4">
+            <div class="card h-20" style="width: 15rem;">
+              <img class="card-img-top" src="{% static "img/4-contactplus-ic@2x.png" %}" ">
+              <div class="card-body">
+                <h5 class="card-title">Contact Plus</h5>
+                <p class="card-text">First & Last Nme</p>
+                  <p class="card-text">Street Address</p>
+                <a href="/demos/" class="btn btn-primary">Demo</a>
+              </div>
+            </div>
+          </div>
+        <div class="col-sm-4">
+            <div class="card h-20" style="width: 15rem;">
+              <img class="card-img-top" src="{% static "img/location_plus-1.png" %}" ">
+              <div class="card-body">
+                <h5 class="card-title">Current Location Plus</h5>
+                <p class="card-text">First & Last Nme</p>
+                  <p class="card-text">Street Address</p>
+                <a href="/demos/" class="btn btn-primary">Demo</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="card h-20" style="width: 15rem;">
+              <img class="card-img-top" src="{% static "img/5-device-ic@2x.png" %}" ">
+              <div class="card-body">
+                <h5 class="card-title">Device Info</h5>
+                <p class="card-text">First & Last Nme</p>
+                  <p class="card-text">Street Address</p>
+                <a href="/demos/" class="btn btn-primary">Demo</a>
+              </div>
+            </div>
+           </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
