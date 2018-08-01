@@ -11,77 +11,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneid/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1455">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+              <folding>
+                <marker date="1533155493252" expanded="true" signature="937:1118" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phoneid/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="675">
+              <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1533110244463" expanded="true" signature="266:867" ph="..." />
-                <marker date="1533110244463" expanded="true" signature="1074:1952" ph="..." />
+                <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
+                <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
+                <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/src/django_telemaster_teleportal/tsapitools/views.py">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneid/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="21" />
               <folding>
-                <element signature="e#9#20#0" expanded="true" />
+                <marker date="1533155493251" expanded="true" signature="26:493" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneid/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneid/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="131" column="16" lean-forward="true" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+            <state relative-caret-position="291">
+              <caret line="94" column="35" lean-forward="false" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
               <folding>
-                <marker date="1533111774127" expanded="true" signature="2522:2680" ph="..." />
+                <marker date="1533156110056" expanded="true" signature="2513:2671" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-numberdeactivation-ic@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phoneid/static/img/2-numberdeactivation-ic@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneid/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-contact-ic@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phoneid/static/img/1-contact-ic@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5-device-ic@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phoneid/static/img/5-device-ic@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6-subscriber-ic@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phoneid/static/img/6-subscriber-ic@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demos.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/demos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -242,21 +257,29 @@
           <expand>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
               <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
               <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
               <item name="phoneid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
               <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
               <item name="phoneid" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
               <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
               <item name="phoneid" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
@@ -264,73 +287,9 @@
             </path>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website copy" type="462c0819:PsiDirectoryNode" />
               <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="django_telemaster_teleportal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="django_telemaster_teleportal" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="django_telemaster_teleportal" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="django_telemaster_teleportal" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="django_telemaster_teleportal" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="tsapitools" type="462c0819:PsiDirectoryNode" />
-              <item name="harness" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="python_qa_backoffice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="python_qa_backoffice" type="462c0819:PsiDirectoryNode" />
-              <item name="tsqa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="python_qa_backoffice" type="462c0819:PsiDirectoryNode" />
-              <item name="tsqa" type="462c0819:PsiDirectoryNode" />
-              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="python_qa_backoffice" type="462c0819:PsiDirectoryNode" />
-              <item name="tsqa" type="462c0819:PsiDirectoryNode" />
-              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -413,11 +372,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16528067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16528067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37053245" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37053245" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -444,42 +403,27 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>46</line>
+          <line>44</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>45</line>
+          <line>43</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>28</line>
+          <line>26</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>36</line>
+          <line>34</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>32</line>
+          <line>30</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="django-line">
@@ -542,16 +486,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <marker date="1533111774127" expanded="true" signature="2522:2680" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -581,7 +515,7 @@
         <state relative-caret-position="1140">
           <caret line="76" column="5" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="5" />
           <folding>
-            <marker date="1533099968897" expanded="true" signature="937:1118" ph="..." />
+            <marker date="1533155493252" expanded="true" signature="937:1118" ph="..." />
           </folding>
         </state>
       </provider>
@@ -600,8 +534,9 @@
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1533110244463" expanded="true" signature="266:867" ph="..." />
-            <marker date="1533110244463" expanded="true" signature="1074:1952" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
           </folding>
         </state>
       </provider>
@@ -621,15 +556,8 @@
         <state relative-caret-position="210">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
-            <marker date="1533111774127" expanded="true" signature="2522:2680" ph="..." />
+            <marker date="1533156110056" expanded="true" signature="2513:2671" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoneid/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -748,16 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phoneid/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="112" column="37" lean-forward="true" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
-          <folding>
-            <marker date="1533099968897" expanded="true" signature="937:1118" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phoneid/static/img/telesign_logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -792,16 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phoneid/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <marker date="1533104816623" expanded="true" signature="26:493" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/python3/lib/python3.6/site-packages/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -815,16 +723,6 @@
         <state relative-caret-position="121">
           <caret line="101" column="51" lean-forward="true" selection-start-line="101" selection-start-column="51" selection-end-line="101" selection-end-column="51" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoneid/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#616#657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,9 +769,9 @@
     <entry file="file://$USER_HOME$/src/django_telemaster_teleportal/tsapitools/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding>
-            <element signature="e#9#20#0" expanded="true" />
+            <element signature="e#9#20#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -908,33 +806,78 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/phoneid/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="131" column="16" lean-forward="true" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phoneid/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="21" />
           <folding>
-            <marker date="1533111774127" expanded="true" signature="2522:2680" ph="..." />
+            <marker date="1533155493251" expanded="true" signature="26:493" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phoneid/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <marker date="1533155493252" expanded="true" signature="937:1118" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phoneid/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phoneid/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="675">
+          <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1533110244463" expanded="true" signature="266:867" ph="..." />
-            <marker date="1533110244463" expanded="true" signature="1074:1952" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
+            <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phoneid/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/demos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="94" column="35" lean-forward="false" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+          <folding>
+            <marker date="1533156110056" expanded="true" signature="2513:2671" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

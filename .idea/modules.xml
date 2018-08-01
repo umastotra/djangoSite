@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Website copy/.idea/Website copy.iml" filepath="$USER_HOME$/Website copy/.idea/Website copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/djangoSite.iml" filepath="$PROJECT_DIR$/.idea/djangoSite.iml" />
       <module fileurl="file://$USER_HOME$/src/.idea/src.iml" filepath="$USER_HOME$/src/.idea/src.iml" />
     </modules>
