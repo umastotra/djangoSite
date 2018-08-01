@@ -23,21 +23,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phoneid/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
-                <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
-                <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phoneid/forms.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -257,6 +242,15 @@
           <expand>
             <path>
               <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoSite" type="462c0819:PsiDirectoryNode" />
+              <item name="phoneid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Website copy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -401,31 +395,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/phoneid/views.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="django-line">
           <url>file://$PROJECT_DIR$/templates/demos.html</url>
           <line>94</line>
@@ -532,12 +501,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
-            <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
-            <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -846,12 +810,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1533156110052" expanded="true" signature="395:397" ph="..." />
-            <marker date="1533156110052" expanded="true" signature="417:457" ph="..." />
-            <marker date="1533156110052" expanded="true" signature="521:1386" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
